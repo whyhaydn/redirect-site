@@ -1,1 +1,1 @@
-var site = "YOUR_SITE_HERE!"
+var site = "https://l2vy7.xyz"
