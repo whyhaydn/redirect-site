@@ -1,3 +1,3 @@
-var site = "https://l2vy7.xyz"
+var site = "ADD-SITE-HERE"
 
 location.replace(site);
