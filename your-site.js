@@ -1,3 +1,3 @@
-var site = "ADD-SITE-HERE"
+var site = "https://solo.to/holyunblocker"
 
 location.replace(site);
